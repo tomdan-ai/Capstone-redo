@@ -33,7 +33,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [GDC Capstone Project] <a href=""></a>
+# 📖 [GDC Capstone Project] <a href="https://tomdan-ai.github.io/Capstone-redo/"></a>
 
 # Global Developers Conference
 This Capstone Project is based on an online website for a conference for developers round the world. 
@@ -60,7 +60,7 @@ This Capstone Project is based on an online website for a conference for develop
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<P>Click<a href="">here</a>to see live</p>
+<P>Click <a href="https://tomdan-ai.github.io/Capstone-redo/"> here </a> to see live </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
