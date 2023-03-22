@@ -39,6 +39,9 @@
 This Capstone Project is based on an online website for a conference for developers round the world. 
  You will learn how to use the different niche in tech to empower, enlighthen and grow to a succesful career in the Tech field. 
 
+ # Project Video Documentation
+ Click <a href="https://www.loom.com/share/18728e8d6b1f44f29d222cec9d9fa79f"> here </a> to watch video
+
 ## 🛠 Built With <a name="built-with"></a>
 <a href="">HTML</a>
 <a href="">CSS</a>
